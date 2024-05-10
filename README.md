@@ -39,7 +39,7 @@ This is just an example.
 
 Alright. The server is ready... Now we can simply write a piece of Python code in the following style and apply the changes:
 
-![5secbaz](https://github.com/isecbaz/glitch/assets/157783650/d33da26e-6b90-4dc5-b3d6-5976f1f0a078
+![5secbaz](https://github.com/isecbaz/glitch/assets/157783650/d33da26e-6b90-4dc5-b3d6-5976f1f0a078)
 
 Change the numeric ID, bot token, and server address, and then run the Python code...
 
