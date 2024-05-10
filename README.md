@@ -13,7 +13,7 @@ Create a Glitch Project:
 Go to https://glitch.com/ and sign up or log in to your Glitch account.
 Click on the "New Project" button and select "Node.js" as the project template.
 Give your project a name and click on the "Create Project" button.
-https://glitch.com/edit/#!/remix/glitch-hello-node(Hello Node
+https://glitch.com/edit/#!/remix/glitch-hello-node (Hello Node)
 
 ![2secbaz](https://github.com/isecbaz/glitch/assets/157783650/9c0f1b78-5f5d-4874-a871-1c8d25ee1c15)
 
